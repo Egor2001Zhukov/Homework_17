@@ -1,6 +1,4 @@
-# create_data.py
-
-# чтобы создать БД с данными 
+# чтобы создать БД с данными
 
 from flask import Flask, request
 from flask_restx import Api, Resource
